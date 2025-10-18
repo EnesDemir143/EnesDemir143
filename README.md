@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI Frameworks**
 
-- 📫 How to reach me **enesd41@outlook.com**
+- 📫 How to reach me **enesdemirdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
